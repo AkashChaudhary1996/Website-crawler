@@ -3,6 +3,6 @@ A website crawler is developed using the scrapy framework of python which crawls
 
 Instructions:
 Clone the project
-Goto-> Amazon2->Amzon2->spiders
+Goto-> Amazon2->Amazon2->spiders
 Here there are pythons scripts ith different ecommerce company's names.
 Run this files to generate the jason file which are stored in output folder.
